@@ -10,5 +10,12 @@
 <img alt="Gmail" src="https://img.shields.io/badge/dendiaryar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=dendiaryar&show_icons=true alt=Elangovan />
+	<img src=https://github-readme-stats.vercel.app/api?username=dendiaryar&show_icons=true&theme=blueberry alt=Elangovan />
 </p>
+
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=blueberry alt=Elangovan />
+</p>
+
+
+
