@@ -8,8 +8,11 @@
 
 <h2> 📫 How to reach me: </h2>
 
+<div>
 <img alt="Gmail" src="https://img.shields.io/badge/dendiaryar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+<img alt="LinkedIn" src="https://img.shields.io/badge/dendiaryar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div>
+	
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=dendiaryar&show_icons=true&theme=blueberry alt=Elangovan />
 </p>
