@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on : Mobile app development
-- 📫 How to reach me:
+
+<h4> 📫 How to reach me: </h4>
 
 <img alt="Gmail" src="https://img.shields.io/badge/dendiaryar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
