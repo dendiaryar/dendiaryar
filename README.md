@@ -27,19 +27,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendiaryar&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
-### thanks for visiting my repository, here's some cool text you can send to your friends
+### thanks for visiting my repository 
+<h3 align="center">
+<img src="https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif" width="300"/>
+</h3>
 
-░░░░░█▐▓▓░████▄▄▄█▀▄▓▓▓▌█ So Pro
-░░░░░▄█▌▀▄▓▓▄▄▄▄▀▀▀▄▓▓▓▓▓▌█
-░░░▄█▀▀▄▓█▓▓▓▓▓▓▓▓▓▓▓▓▀░▓▌█ Very Scary
-░░█▀▄▓▓▓███▓▓▓███▓▓▓▄░░▄▓▐█▌
-░█▌▓▓▓▀▀▓▓▓▓███▓▓▓▓▓▓▓▄▀▓▓▐█ Much Skill
-▐█▐██▐░▄▓▓▓▓▓▀▄░▀▓▓▓▓▓▓▓▓▓▌█▌
-█▌███▓▓▓▓▓▓▓▓▐░░▄▓▓███▓▓▓▄▀▐█ Wow
-█▐█▓▀░░▀▓▓▓▓▓▓▓▓▓██████▓▓▓▓▐█
-▌▓▄▌▀░▀░▐▀█▄▓▓██████████▓▓▓▌█▌
-▌▓▓▓▄▄▀▀▓▓▓▀▓▓▓▓▓▓▓▓█▓█▓█▓▓▌█
-█▐▓▓▓▓▓▓▄▄▄▓▓▓▓▓▓█▓█▓█▓█▓▓▓▐█
+
 
 ---
 [twitter]: https://twitter.com/dendiaryar
