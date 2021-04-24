@@ -14,10 +14,8 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/dendiaryar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 ---
-### 
-[![Dendi Arya Github Stats](https://github-readme-stats.vercel.app/api?username=dendiaryar&show_icons=true&theme=blueberry alt=Elangovan)](https://github.com/anuraghazra/github-readme-stats)
 
----
+[![Dendi Arya Github Stats](https://github-readme-stats.vercel.app/api?username=dendiaryar&show_icons=true&theme=blueberry alt=Elangovan)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendiaryar&layout=compact&theme=blueberry alt=Elangovan)](https://github.com/anuraghazra/github-readme-stats)
 
