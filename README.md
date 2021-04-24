@@ -1,39 +1,28 @@
 
 
 
-<h4 align="center">Hi there 👋, i'm Dendi Computer Engineering Student From Indonesia </h4>
+### Hi there 👋, i'm Dendi Computer Engineering Student From Indonesia
 
-<h5>-🌱 I’m currently learning Flutter and web development (back end) </h5>
-<h5>- 👯 I’m looking to collaborate on : Mobile app development </h5>
+-🌱 I’m currently learning Flutter and web development (back end) 
+- 👯 I’m looking to collaborate on : Mobile app development 
 
-<h2> 📫 How to reach me: </h2>
+### 📫 How to reach me:
 
-<div>
+[<img alt="Gmail" src="https://img.shields.io/badge/dendiaryar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/dendiaryar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt="Twitter" src="https://img.shields.io/badge/dendiaryar%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
+[<img alt="Instagram" src="https://img.shields.io/badge/dendiaryar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
-    [<img alt="Gmail" src="https://img.shields.io/badge/dendiaryar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][Gmail]
+---
+### 
+[![Dendi Arya Github Stats](https://github-readme-stats.vercel.app/api?username=dendiaryar&show_icons=true&theme=blueberry alt=Elangovan)](https://github.com/anuraghazra/github-readme-stats)
 
-    [<img alt="LinkedIn" src="https://img.shields.io/badge/dendiaryar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendiaryar&layout=compact&theme=blueberry alt=Elangovan)](https://github.com/anuraghazra/github-readme-stats)
 
-    [<img alt="Twitter" src="https://img.shields.io/badge/dendiaryar%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
-
-
-   [<img alt="Instagram" src="https://img.shields.io/badge/dendiaryar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
-
-
-
-</div>
-<p></p>
-	
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=dendiaryar&show_icons=true&theme=blueberry alt=Elangovan />
-</p>
-
-
-
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=blueberry alt=Elangovan />
-</p>
-
-
-
+---
+[twitter]: https://twitter.com/dendiaryar
+[instagram]: https://www.instagram.com/dendiaryar
+[linkedin]: https://www.linkedin.com/in/dendiaryar
+[email]: mailto:hello.adityarohman@gmail.com
