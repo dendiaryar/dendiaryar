@@ -1,7 +1,6 @@
-
-
-
-### Hi there 👋, i'm Dendi Computer Engineering Student From Indonesia
+<h3 align="center">
+  <pre>Hi there 👋, i'm Dendi Computer Engineering Student From Indonesia</pre>
+</h3>
 
 -🌱 I’m currently learning Flutter and web development (back end) 
 - 👯 I’m looking to collaborate on : Mobile app development 
