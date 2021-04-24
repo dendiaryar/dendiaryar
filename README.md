@@ -3,7 +3,7 @@
 
 <h4 align="center">Hi there 👋, i'm Dendi Computer Engineering Student From Indonesia </h4>
 
-<h5>-🌱 I’m currently learning Flutter </h5>
+<h5>-🌱 I’m currently learning Flutter and web development (back end) </h5>
 <h5>- 👯 I’m looking to collaborate on : Mobile app development </h5>
 
 <h2> 📫 How to reach me: </h2>
