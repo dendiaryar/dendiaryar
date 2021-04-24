@@ -26,6 +26,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendiaryar&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
+--- 
+### thanks for visiting my repository, here's some cool text you can send to your friends
+
+░░░░░█▐▓▓░████▄▄▄█▀▄▓▓▓▌█ So Pro
+░░░░░▄█▌▀▄▓▓▄▄▄▄▀▀▀▄▓▓▓▓▓▌█
+░░░▄█▀▀▄▓█▓▓▓▓▓▓▓▓▓▓▓▓▀░▓▌█ Very Scary
+░░█▀▄▓▓▓███▓▓▓███▓▓▓▄░░▄▓▐█▌
+░█▌▓▓▓▀▀▓▓▓▓███▓▓▓▓▓▓▓▄▀▓▓▐█ Much Skill
+▐█▐██▐░▄▓▓▓▓▓▀▄░▀▓▓▓▓▓▓▓▓▓▌█▌
+█▌███▓▓▓▓▓▓▓▓▐░░▄▓▓███▓▓▓▄▀▐█ Wow
+█▐█▓▀░░▀▓▓▓▓▓▓▓▓▓██████▓▓▓▓▐█
+▌▓▄▌▀░▀░▐▀█▄▓▓██████████▓▓▓▌█▌
+▌▓▓▓▄▄▀▀▓▓▓▀▓▓▓▓▓▓▓▓█▓█▓█▓▓▌█
+█▐▓▓▓▓▓▓▄▄▄▓▓▓▓▓▓█▓█▓█▓█▓▓▓▐█
+
 ---
 [twitter]: https://twitter.com/dendiaryar
 [instagram]: https://www.instagram.com/dendiaryar
