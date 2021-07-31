@@ -2,8 +2,6 @@
     Hello there, I'm Dendi
 </h3>
 
-- 🌱 I’m currently learning Flutter and web development (back end) 
-- 👯 I’m looking to collaborate on : Mobile app development 
 ---
 ### 📫 How to reach me:
 [<img alt="Gmail" src="https://img.shields.io/badge/dendiaryar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
